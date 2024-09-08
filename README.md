@@ -42,3 +42,6 @@ You can access the 3D model made with Tinkercad [here](https://www.tinkercad.com
 ## Code
 
 The MicroPython code is in the [main.py](main.py) file
+
+## Demonstration Video
+<img src="assets/5.gif" alt="Project Animation" width="50%"/>
