@@ -87,10 +87,6 @@ while True:
     time.sleep_ms(100)  # Short delay between readings
     dis_dx = distance(TRIG_dx, ECHO_dx) 
 
-    # Print the measured distances
-    print("Distance SX: %.2f cm" % dis_sx)
-    print("Distance DX: %.2f cm" % dis_dx)
-
     # Check if an obstacle is detected within 10 cm by either sensor
     if dis_sx < 10 or dis_dx < 10:
         stop()  # Stop the robot
