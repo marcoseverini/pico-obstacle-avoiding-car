@@ -32,7 +32,7 @@ I decided to use a powerbank for the USB connection.
 
 ## 3D Model
 
-You can access the 3D model made with Tinkercad [here](https://www.tinkercad.com/things/aVpRYmWbQks-obstacle-avoiding-robot-raspberry-pi-pico).
+You can access the 3D model made with Tinkercad [here](https://www.tinkercad.com/things/k87AAEScrFg-obstacle-avoiding-robot-raspberry-pi-pico).
 <div>
   <img src="assets/2.png" alt="Image 1" width="30%" style="display:inline-block; vertical-align:middle;"/>
   <img src="assets/3.png" alt="Image 2" width="30%" style="display:inline-block; vertical-align:middle;"/>
