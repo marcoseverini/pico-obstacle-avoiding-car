@@ -1,5 +1,5 @@
 # Obstacle Avoiding Robot with Raspberry Pi Pico
-![](assets/1.png)
+
 This project showcases a simple robot that can avoid obstacles using two ultrasonic sensors, based on a Raspberry Pi Pico. The robot detects the distance to objects in its path and adjusts its movement to avoid collisions. The project includes the code, circuit diagram, and 3D model created in Tinkercad.
 
 ## Features
