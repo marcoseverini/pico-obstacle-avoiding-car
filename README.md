@@ -2,6 +2,15 @@
 
 This project showcases a simple robot that can avoid obstacles using two ultrasonic sensors, based on a Raspberry Pi Pico. The robot detects the distance to objects in its path and adjusts its movement to avoid collisions. The project includes the code, circuit diagram, and 3D model created in Tinkercad.
 
+## 3D Model
+
+You can access the 3D model made with Tinkercad [here](https://www.tinkercad.com/things/k87AAEScrFg-obstacle-avoiding-robot-raspberry-pi-pico).
+<div>
+  <img src="assets/2.png" alt="Image 1" width="30%" style="display:inline-block; vertical-align:middle;"/>
+  <img src="assets/3.png" alt="Image 2" width="30%" style="display:inline-block; vertical-align:middle;"/>
+  <img src="assets/4.png" alt="Image 3" width="30%" style="display:inline-block; vertical-align:middle;"/>
+</div>
+
 ## Features
 
 - **Autonomous Movement:** The robot moves forward and avoids obstacles automatically.
@@ -29,15 +38,6 @@ I decided to use a powerbank for the USB connection.
 
 ## Circuit Diagram
 ![](assets/6.png)
-
-## 3D Model
-
-You can access the 3D model made with Tinkercad [here](https://www.tinkercad.com/things/k87AAEScrFg-obstacle-avoiding-robot-raspberry-pi-pico).
-<div>
-  <img src="assets/2.png" alt="Image 1" width="30%" style="display:inline-block; vertical-align:middle;"/>
-  <img src="assets/3.png" alt="Image 2" width="30%" style="display:inline-block; vertical-align:middle;"/>
-  <img src="assets/4.png" alt="Image 3" width="30%" style="display:inline-block; vertical-align:middle;"/>
-</div>
 
 ## Code
 
